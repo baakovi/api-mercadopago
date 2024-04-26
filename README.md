@@ -13,7 +13,6 @@ O projeto foi realizado com as seguintes tecnologias.
       <li><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></li>
       <li><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></li>
       <li><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" /></li>
-      <li></li>
    </ul>
 
    <br>
