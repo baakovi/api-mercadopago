@@ -4,7 +4,7 @@ import mercadopago
 # Foi cirada a função que gera toda a configuração de pagamento, retornando o link para iniciar o pagamento.
 def gerar_link_pagamento():
     # Criando o SDK - integração do Mercado Pago com o código
-    sdk = mercadopago.SDK("TEST-3013944780215666-042423-75f02526d3593d26e2edf4b95df950c6-1764101687")
+    sdk = mercadopago.SDK("USAR-TOKEN-DE-ACESSO-NESSA-ÁREA")
     # sdk = mercadopago.SDK("YOUR_ACCESS_TOKEN")
     # YOUR_ACESS_TOKEN => colocar o Token de acesso dentro do parênteses (apenas com a conta criada)
     # Integrar a conta com a conta do mercado pago
