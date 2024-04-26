@@ -1,4 +1,5 @@
-# Importanto biblioteca do Mercado Pago
+# Importando biblioteca do Mercado Pago
+# Não esquecer do 'pip install mercadopago'
 import mercadopago
 
 # Foi cirada a função que gera toda a configuração de pagamento, retornando o link para iniciar o pagamento.
